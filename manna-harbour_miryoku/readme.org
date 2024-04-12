@@ -1,6 +1,8 @@
 # Copyright 2022 Manna Harbour
 # https://github.com/manna-harbour/miryoku
 
+** To be inserted into ~/git/qmk_firmware/users/manna-harbour_miryoku
+
 * Miryoku QMK [[https://raw.githubusercontent.com/manna-harbour/miryoku/master/data/logos/miryoku-roa-32.png]]
 
 [[https://raw.githubusercontent.com/manna-harbour/miryoku/master/data/cover/miryoku-kle-cover-miryoku_qmk.png]]
